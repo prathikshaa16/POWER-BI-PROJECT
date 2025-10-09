@@ -28,13 +28,16 @@ It allows users to **filter by state/party**, **analyze swings**, and **drill do
 
 ## ⚙️ Data Source and Preparation  
 
-### **Files Used**
-- `constituencywise_results.csv`  
-- `constituencywise_details.csv`  
-- `partywise_results.csv`  
-- `statewise_results.csv`  
-- `states.csv`  
-- `Indian General Election Result Anlaysis.pbix`  
+### **Files Used** 
+
+- [Indian General Election Result Anlaysis.pbix](Indian%20General%20Election%20Result%20Anlaysis.pbix)  
+- [constituencywise_results](constituencywise_results.csv)  
+- [constituencywise_details](constituencywise_details.csv)  
+- [partywise_results](partywise_results.csv)  
+- [statewise_results](statewise_results.csv)  
+- [states](states.csv)  
+- [DAX_Measures](DAX%20MEASURES.docx)  
+
 
 ### **Data Transformation (Power Query)**  
 - Imported all CSV files using **Get Data > Text/CSV**.  
@@ -131,13 +134,6 @@ It enables **comparisons across states & parties**, **drilldowns to candidate le
 
 > 💡 *This project represents end-to-end Power BI development using real election datasets — from data preparation and DAX modeling to dashboard storytelling.*
 
----
-
-## 📂 Project Files  
-
-- [Indian General Election Result Anlaysis.pbix](Indian%20General%20Election%20Result%20Anlaysis.pbix)
-- [DAX Measures Documentation](DAX%20MEASURES.docx)
-  
 ---
 
 ## 📜 License  
