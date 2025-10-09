@@ -63,13 +63,11 @@ It allows users to **filter by state/party**, **analyze swings**, and **drill do
 
 | **Section**              | **Objective**                        | **Visualization Type**   | **Highlights** |
 |---------------------------|--------------------------------------|--------------------------|----------------|
-| 🧾 National Summary       | Seats & vote share by party          | KPI Cards + Bar Chart    | Seat count, vote % |
+| 🧾 National Summary       | Seats & vote share by party          | KPI Cards                | Seat count, vote % |
 | 🗺️ Map (Results)          | Display winners by constituency/state | Shape Map                | Party-colored, tooltips with margin |
-| 📊 Party Performance      | Compare vote shares & seats          | Treemap + Bar Chart      | Filterable by state |
-| 📅 Statewise Results      | Seat & vote breakdown per state      | Matrix + Bar Chart       | Regional analysis |
-| ⚖️ Margin Analysis        | Identify close contests              | Bar / Scatter Plot       | Highlights seats won by <2% |
+| 📊 Party Performance      | Compare vote shares & seats          | Treemap                   | Filterable by state |
+| 📅 Statewise Results      | Seat & vote breakdown per state      | Matrix / Table           | Regional analysis |
 | 👥 Candidate Drilldown     | Candidate-wise details               | Table + Conditional Formatting | Winner vs runner-up |
-| 👥 Turnout Analysis       | Voter participation                  | Line / Area Chart        | State-level turnout % |
 
 ---
 
